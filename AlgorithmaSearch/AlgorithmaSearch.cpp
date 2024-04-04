@@ -28,6 +28,9 @@ void input()
 	}
 }
 
-
+void LinearSearch()
+{
+	
+		
 
 
